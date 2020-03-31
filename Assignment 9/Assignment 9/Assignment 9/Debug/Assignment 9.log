@@ -1,0 +1,9 @@
+﻿  List.c
+E:\CMPE1700\Assignments\Assignment 9\Assignment 9\List.c(19,12): warning C4013: 'time' undefined; assuming extern returning int
+E:\CMPE1700\Assignments\Assignment 9\Assignment 9\List.c(23,46): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+E:\CMPE1700\Assignments\Assignment 9\Assignment 9\List.c(23,56): warning C4090: 'function': different 'const' qualifiers
+E:\CMPE1700\Assignments\Assignment 9\Assignment 9\List.c(30,46): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+E:\CMPE1700\Assignments\Assignment 9\Assignment 9\List.c(30,56): warning C4090: 'function': different 'const' qualifiers
+E:\CMPE1700\Assignments\Assignment 9\Assignment 9\List.c(89,50): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+E:\CMPE1700\Assignments\Assignment 9\Assignment 9\List.c(112,9): warning C4476: 'printf' : unknown type field character '\n' in format specifier
+  Assignment 9.vcxproj -> E:\CMPE1700\Assignments\Assignment 9\Debug\Assignment 9.exe
